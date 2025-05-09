@@ -7,3 +7,5 @@ Respository of design files for [Adjustable Rain Guage Calibrator Wiki](https://
 - **Adjustable Calibrator Top.f3d** | Autodesk Fusion 360 archive of Adjustable Calibrator Top
 - **Adjustable Calibrator Base.step** | STEP file of Adjustable Calibrator Base
 - **Adjustable Calibrator Top.step** | STEP file of Adjustable Calibrator Top
+- **Adjustable Calibrator Top Large.step** | STEP file of Adjustable Calibrator Top for large neck Mariotte bottles
+- **Adjustable Calibrator Top Large.f3z** | Autodesk Fusion 360 archive of Adjustable Calibrator Top for large neck Mariotte bottles
