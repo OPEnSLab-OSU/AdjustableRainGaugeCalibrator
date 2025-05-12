@@ -1,4 +1,4 @@
-# Adjustable Rain Guage Calibrator
+# Adjustable Rain Gauge Calibrator
 
 Respository of design files for [Adjustable Rain Gauge Calibrator Wiki](https://github.com/OPEnSLab-OSU/OPEnS-Lab-Home/wiki/Adjustable-Rain-Gauge-Calibrator)
 
